@@ -127,8 +127,12 @@ const henrique: Developer = {
 ## 📊 GitHub Stats
  
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRL55&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRL55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueRL55&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueRL55&theme=tokyonight" />
+</div>
+ 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HenriqueRL55&theme=tokyonight&utcOffset=-3" />
 </div>
  
 <div align="center">
