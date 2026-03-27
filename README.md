@@ -40,7 +40,7 @@ const henrique: Developer = {
     "IA para pré-triagem de pacientes 🏥",
     "WebSocket para comunicação em tempo real ⚡",
     "Google Maps API + heatmaps geoespaciais 🗺️",
-    "Storybook — bibliotecas de componentes escaláveis 📚",
+    "Push Notifications com Firebase 🔔",
   ],
   atualmente:  "Construindo sistemas de saúde digital para milhões 🌎",
 };
@@ -71,8 +71,11 @@ const henrique: Developer = {
 <h4 align="center">⚡ Core — Linguagens & Frameworks</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,angular,ionic&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,angular,vue&theme=dark&perline=5" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </p>
  
 <h4 align="center">🎨 Estilização & UI</h4>
@@ -93,24 +96,30 @@ const henrique: Developer = {
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
  
-<h4 align="center">🗺️ APIs & Visualização</h4>
+<h4 align="center">🗺️ APIs, Cloud & Visualização</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark&perline=1" />
+  </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Push_Notifications-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
   <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
  
-<h4 align="center">🔧 Ferramentas & Workflow</h4>
+<h4 align="center">🔧 Ferramentas</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,vite,storybook,nodejs&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=figma,git,vite,nodejs&theme=dark&perline=4" />
   </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </p>
  
 ---
@@ -118,7 +127,7 @@ const henrique: Developer = {
 ## 📊 GitHub Stats
  
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRL55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9FF&text_color=C9D1D9&ring_color=6C63FF" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRL55&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRL55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
 </div>
  
@@ -136,25 +145,13 @@ const henrique: Developer = {
  
 ---
  
-## 🥇 Troféus
- 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueRL55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
- 
----
- 
 <div align="center">
  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header" width="100%"/>
- 
-  ### 🐉 &nbsp;
+  ### 🐉
  
   > *"Supere seus limites. Quebre suas barreiras. Vá além!"*
   >
   > **— Son Goku, Dragon Ball Z**
- 
-  <img src="https://img.shields.io/badge/Plus%20Ultra%20!-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAxM2gzYS41LjUgMCAwIDEgMCAxa0gxM3YzYS41LjUgMCAwIDEtMSAwaC0zdi0zYS41LjUgMCAwIDEgMS0xem0tMi0yaC0zYS41LjUgMCAwIDEgMC0xaDN2LTNhLjUuNSAwIDAgMSAxIDBoM3YzSDExeiIvPjwvc3ZnPg==&logoColor=white" />
  
 </div>
  
