@@ -143,10 +143,19 @@ const henrique: Developer = {
 </div>
  
 ---
-
  
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+ 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header" width="100%"/>
+ 
+  ### 🐉 &nbsp;
+ 
+  > *"Supere seus limites. Quebre suas barreiras. Vá além!"*
+  >
+  > **— Son Goku, Dragon Ball Z**
+ 
+  <img src="https://img.shields.io/badge/Plus%20Ultra%20!-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAxM2gzYS41LjUgMCAwIDEgMCAxa0gxM3YzYS41LjUgMCAwIDEtMSAwaC0zdi0zYS41LjUgMCAwIDEgMS0xem0tMi0yaC0zYS41LjUgMCAwIDEgMC0xaDN2LTNhLjUuNSAwIDAgMSAxIDBoM3YzSDExeiIvPjwvc3ZnPg==&logoColor=white" />
+ 
 </div>
  
 <a href="https://github.com/HenriqueRL55">
